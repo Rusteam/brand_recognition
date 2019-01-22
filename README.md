@@ -21,8 +21,8 @@ There are real photos and logo drawings.
 
 ##### Network architecture
 
-Best results were obtained by using pretrained VGG-16 and 2 fully-connected classification layers
-Mobilenet, ResNet50, Inception were also used.
+Best results were obtained by using pretrained VGG-16 and 2 fully-connected classification layers.
+Mobilenet, ResNet50, Inception were also tested.
 
 A custom convnet with 5 convolution layers (and blocks with 2 convolutions and 1 pooling) and 2 fully-connected classification layers was also tried. 
 
