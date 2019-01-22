@@ -57,7 +57,7 @@ Dropout between two fully-connected layers was set to 0.4
 
 |Warmup epochs|Pretrained unfreeze|Validation accuracy|
 |---|---|---|
-|4|last 4 layers| > 70% |
+|10|last 4 layers| ~ 78% |
 |full|no|~ 70% |
 |10|all layers|~ 60%|
 |no|all layers| no convergence|
