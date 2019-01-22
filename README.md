@@ -14,7 +14,7 @@ There are real photos and logo drawings.
 
 ##### Image samples
 ![image alt <](./ImageSamples/4fresh.jpg)
-![image alt <>](./ImageSamples/phillips.jpg ./ImageSamples/amf.jpg)
+![image alt <>](./ImageSamples/phillips.jpg, ./ImageSamples/amf.jpg)
 ![image alt >](./ImageSamples/riv_gosh.jpg)
 
 ### Training
